@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35623390-e29e-4b21-b2b7-7035c02ee3da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework1/.github/workflows/gradle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework1/src/main/java/ru/netology/service/CashbackHackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework1/src/test/java/CashbackHackServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns1/.github/workflows/gradle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns1/src/test/java/Data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns1/src/test/java/ru/netology/CardDeliveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns2/.github/workflows/gradle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.github/workflows/gradle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/src/test/java/ru/netology/PostmanEchoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Patterns1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Patterns1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Patterns1/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Patterns1/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gradl/src/test/java/ru/netology/service/CashbackHackServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fC2GTVLKtOgXsIrOXysbXdtXXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35623390-e29e-4b21-b2b7-7035c02ee3da" name="Changes" comment="" />
+      <created>1713290645976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713290645976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
